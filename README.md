@@ -1,4 +1,4 @@
-###[![Build Status](https://app.travis-ci.com/AbdelMfossa/deployez_une_application_django.svg?branch=master)](https://app.travis-ci.com/AbdelMfossadeployez_une_application_django)
+[![Build Status](https://app.travis-ci.com/AbdelMfossa/deployez_une_application_django.svg?branch=master)](https://app.travis-ci.com/AbdelMfossa/deployez_une_application_django)
 
 # Déployez une application Django
 
